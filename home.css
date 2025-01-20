@@ -1,0 +1,32 @@
+body {
+    background-color: #B1C29E;
+}
+
+.header {
+    display: inline-flex;
+}
+
+.img1 {
+    margin: 0px 20px 0px 20px;
+}
+
+.Address1 {
+    background-color: rgb(71, 138, 238);
+}
+
+.Address2 {
+    margin: 15px 30px 5px 30px;
+}
+
+.color1 {
+    background-color: #659287;
+
+}
+
+.Name {
+    color: rgb(12, 245, 109);
+}
+
+.margin {
+    margin-left: 30px;
+}
